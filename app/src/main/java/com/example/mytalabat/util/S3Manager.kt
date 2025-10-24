@@ -19,8 +19,8 @@
 //
 //object S3Manager {
 //    // Replace these with your actual AWS credentials
-//    private const val ACCESS_KEY = "AKIA6GUTHW7WSMHV7SGW"
-//    private const val SECRET_KEY = "lxROsIctGuruKNnTrNgSEMXh8Zh7D3CqS7wvjPOm"
+//    private const val ACCESS_KEY = ""
+//    private const val SECRET_KEY = ""
 //    private const val BUCKET_NAME = "hamelnam"
 //    private const val BUCKET_REGION = "eu-north-1" // Change to your bucket region
 //
